@@ -1,0 +1,40 @@
+
+
+1, Jegyek
+
+[4, 5, 3, 5, 2, 4, 5, 1, 3, 2, 5, 3, 4, 2, 1, 2, 3, 3, 5, 4]
+
+Számold ki az átlagot, szórást, medián-t, móduszt
+Add meg, hogy hány darab 5-ös, 4-es, 3-as, 2-es és 1-es van (táblázat szerűen)
+
+
+2, Filekezelő
+
+input ->
+.jpg vagy .png = Képek lista
+.pdf vagy .docx = Doksik lista
+.mp4 vagy .avi = Videók lista 
+egyéb = ismeretlen
+
+
+3, Szó gyakoriság számláló
+"alma körte alma szilva alma körte banán körte alma" -> legalább 3x szerepel benne
+
+
+4, Hobbik
+anna = {"futás", "mozi", "zene", "tánc"}
+bela = {"mozi", "tánc", "túrázás"}
+csaba = {"zene", "túrázás", "mozi"}
+
+Mely hobbikban egyezik meg legalább 2 ember?
+Mely hobbit mindenki szereti?
+Mely hobbi csak Annánál van?
+
+
+5, Palindrom keresés
+input -> Palindrom-e vagy sem
+
+
+
+
+
