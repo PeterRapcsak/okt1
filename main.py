@@ -12,4 +12,3 @@ for szam in szamok:
 print(data)
 print(len(data[3]))
 
-

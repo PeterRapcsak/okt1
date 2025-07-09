@@ -50,3 +50,8 @@ input -> Anagramma-e vagy sem
 (étel - élet, kapu - kupa, étkezik - tekézik, kelletlen - lelketlen, szorgalmi - grimaszol)
 
 
+7, szám kitaláló
+Gondolunk egy számra, ki kell találni, user input + random
+
+
+
