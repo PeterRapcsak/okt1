@@ -49,9 +49,14 @@ input -> Anagramma-e vagy sem
 
 (étel - élet, kapu - kupa, étkezik - tekézik, kelletlen - lelketlen, szorgalmi - grimaszol)
 
+------------------------------
 
 7, szám kitaláló
 Gondolunk egy számra, ki kell találni, user input + random
+1 - 1000
 
+8. Szorzótábla generátor
 
+9. Csillag piramis (nehéz logika)
 
+10. Akasztófa (nehéz)

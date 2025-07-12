@@ -1,14 +1,41 @@
 
-szamok = [85, 92, 47, 78, 95, 88, 76, 82, 90, 85, 45, 79, 91, 88, 84, 77, 93, 86, 60, 80, 89, 94, 87, 65]
 
-data = [[],[],[],[],[]]
+szam = int(input("Szam: "))
 
-for szam in szamok:
-    if 90 <= szam <= 100:
-        data[4].append(szam)
-    elif 80 <= szam <= 89:
-        data[3].append(szam)
+for x in range(1, szam + 1):
+    if x % 3 == 0 and x % 5 == 0:
+        print("Fizz Buzz")
+    elif x % 3 == 0:
+        print("Fizz")
+    elif x % 5 == 0:
+        print("Buzz")
+    else:
+        print(x)
 
-print(data)
-print(len(data[3]))
 
+
+
+
+n = 10
+
+fib = [0, 1]
+
+for x in range(2, n):
+    fib.append(fib[-1] + fib[-2])
+
+print(fib)
+
+
+
+
+'''
+n = 10
+
+a = 0
+b = 1
+
+for x in range(n):
+    print(a)
+    a, b = b, a + b
+
+'''
